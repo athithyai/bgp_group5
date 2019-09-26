@@ -59,7 +59,7 @@ user: s6037054 / password: _s6037054_
 Tables names: obs_int_try, obs_int_try_jan, obs_int_try_feb, obs_int_try_mar, obs_int_try_apr, obs_int_try_may, obs_int_try_jun
 
 user: s6040217 / password: _s6040217_
-Tables names: blockwise, monthwise
+Tables names: blockwise, monthwise (change in target variable to [sum])
 
 
 
