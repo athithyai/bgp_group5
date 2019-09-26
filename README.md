@@ -1,5 +1,7 @@
 # bgp_group5
-Group project repository for the Big Geodata Processing course
+Group project repository for the Big Geodata Processing course, project of Citizen Science meet Big Geodata Processing: Modeling observer intensity.
+
+The 'Waarneming' project (‘Observation’ in English) is a citizen science project where volunteers record their observations of different natural species in the Netherlands, and upload them through an online platform. The project seeks to collect and preserve the natural heritage of the Netherlands, furthermore, spreading environmental awareness for its protection and knowledge. For this research, we will be using the data from this citizen project but only considering the bird observations report, whose data structure contains the following attributes: Species, Observer, Location, Timestamp. This research seeks to link the topics of citizen science and big geodata processing by working on a case of modeling observer intensity. Our interest is to understand the dynamics of the observers with respect to different environmental factors.
 
 The following repository aims to keep track of the coding required in the project.
 Initially we use SQL queries to perform a data cleaning and exploration. Later, the use of python and several machine learning libraries for Machine Learning implementation.
